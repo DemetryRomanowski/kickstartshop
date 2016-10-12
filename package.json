@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-	"start": "reaction"  
+	"start": "metoer npm install && reaction"  
   },
   "homepage": "https://github.com/reactioncommerce/reaction",
   "url": "https://github.com/reactioncommerce/reaction",
