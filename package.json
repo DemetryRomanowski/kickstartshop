@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-	"start": "curl https://install.meteor.com/ | sh && npm install -g reaction-cli && reaction"  
+	"start": "curl https://install.meteor.com/ | sh && npm install -g reaction-cli && reaction --port 3000"  
   },
   "homepage": "https://github.com/reactioncommerce/reaction",
   "url": "https://github.com/reactioncommerce/reaction",
