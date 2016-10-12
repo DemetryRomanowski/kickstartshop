@@ -6,6 +6,6 @@
     "REACTION_AUTH": "admin1212",
     "REACTION_EMAIL": "admin@kicksglobal.com"
   },
-  "isDebug": "info",
+  "isDebug": "false",
   "public": {}
 }
