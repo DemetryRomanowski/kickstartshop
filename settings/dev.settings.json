@@ -2,9 +2,9 @@
   "ROOT_URL": "",
   "MAIL_URL": "",
   "reaction": {
-    "REACTION_USER": "",
-    "REACTION_AUTH": "",
-    "REACTION_EMAIL": ""
+    "REACTION_USER": "admin",
+    "REACTION_AUTH": "admin1212",
+    "REACTION_EMAIL": "admin@kicksglobal.com"
   },
   "isDebug": "info",
   "public": {}
