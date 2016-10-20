@@ -5,8 +5,8 @@
 
 
 // folder path where all assets live
-const basePath = "https://assets.reactioncommerce.com/favicon/";
-
+// const basePath = "https://assets.reactioncommerce.com/favicon/";
+const basePath = "../images/favicons"
 
 // define link tags
 const linkTags = [
